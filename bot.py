@@ -5,17 +5,20 @@ from datetime import datetime, timedelta
 
 # PORTFOLIO COMPLET AVEC IDS
 coins = {
-    "LINK": {"id": "chainlink", "quantity": 20},
-    "AVAX": {"id": "avalanche-2", "quantity": 10},
-    "FET": {"id": "fetch-ai", "quantity": 150},
-    "INJ": {"id": "injective-protocol", "quantity": 10},
-    "RENDER": {"id": "render-token", "quantity": 30},
-    "ETHFI": {"id": "ether-fi", "quantity": 100},
-    "ONDO": {"id": "ondo-finance", "quantity": 150},
-    "NEAR": {"id": "near", "quantity": 24},
-    "PENDLE": {"id": "pendle", "quantity": 30},
-    "AR": {"id": "arweave", "quantity": 20},
-    "POL": {"id": "polygon-ecosystem-token", "quantity": 12},
+    "FET": {"id": "fetch-ai", "quantity": 1.0},
+    "INJ": {"id": "injective-protocol", "quantity": 1.0},
+    "RENDER": {"id": "render-token", "quantity": 1.0},
+    "ETHFI": {"id": "ether-fi", "quantity": 0.0},
+    "ONDO": {"id": "ondo-finance", "quantity": 1.0},
+    "NEAR": {"id": "near", "quantity": 1.0},
+    "PENDLE": {"id": "pendle", "quantity": 1.0},
+    "AR": {"id": "arweave", "quantity": 1.0},
+    "POL": {"id": "polygon-ecosystem-token", "quantity": 0.0},
+    "ACA": {"id": "acala", "quantity": 1.0},
+    "CTK": {"id": "certik", "quantity": 1.0},
+    "BAND": {"id": "band-protocol", "quantity": 1.0},
+    "AVAX": {"id": "avalanche-2", "quantity": 0.0},
+    "LINK": {"id": "chainlink", "quantity": 0.0},
 }
 
 # ⚠️ TOKEN ET CHAT_ID CODÉS EN DUR
