@@ -13,8 +13,8 @@ coins = {
     "ETHFI": {"id": "ether-fi", "quantity": 0.0},
     "FET": {"id": "fetch-ai", "quantity": 1.0},
     "INJ": {"id": "injective-protocol", "quantity": 1.0},
-    "NEAR": {"id": "near", "quantity": 1.0},
-    "OCEAN": {"id": "ocean-protocol", "quantity": 1.0},
+    "NEAR": {"id": "near", "quantity": 0.0},
+    "OCEAN": {"id": "ocean-protocol", "quantity": 0.0},
     "ONDO": {"id": "ondo-finance", "quantity": 1.0},
     "PENDLE": {"id": "pendle", "quantity": 1.0},
     "POL": {"id": "polygon-ecosystem-token", "quantity": 0.0},
@@ -22,6 +22,8 @@ coins = {
     "TIA": {"id": "celestia", "quantity": 1.0},
     "LINK": {"id": "chainlink", "quantity": 0.0},
     "XLM": {"id": "stellar", "quantity": 1.0},
+    "SONIC": {"id": "sonic-3", "quantity": 1.0},
+    "ONE": {"id": "harmony", "quantity": 1.0},
 }
 
 # ⚠️ TOKEN ET CHAT_ID CODÉS EN DUR
