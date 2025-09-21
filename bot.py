@@ -23,7 +23,8 @@ coins = {
     "LINK": {"id": "chainlink", "quantity": 0.0},
     "XLM": {"id": "stellar", "quantity": 1.0},
     "SONIC": {"id": "sonic-3", "quantity": 1.0},
-    "ONE": {"id": "harmony", "quantity": 1.0},
+    "ONE": {"id": "harmony", "quantity": 0.0},
+    "VET": {"id": "vechain", "quantity": 1.0},
 }
 
 # ⚠️ TOKEN ET CHAT_ID CODÉS EN DUR
